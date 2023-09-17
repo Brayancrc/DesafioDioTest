@@ -1,0 +1,15 @@
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\bin\Debug\net7.0\NewTalents.exe
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\bin\Debug\net7.0\NewTalents.deps.json
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\bin\Debug\net7.0\NewTalents.runtimeconfig.json
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\bin\Debug\net7.0\NewTalents.dll
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\bin\Debug\net7.0\NewTalents.pdb
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\obj\Debug\net7.0\NewTalents.csproj.AssemblyReference.cache
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\obj\Debug\net7.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfo.cs
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\obj\Debug\net7.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\obj\Debug\net7.0\NewTalents.dll
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\obj\Debug\net7.0\refint\NewTalents.dll
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\obj\Debug\net7.0\NewTalents.pdb
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\obj\Debug\net7.0\NewTalents.genruntimeconfig.cache
+C:\Users\bracruz\Downloads\Projetos .Net\DesafioDioTest\NewTalents\obj\Debug\net7.0\ref\NewTalents.dll
